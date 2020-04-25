@@ -12,12 +12,14 @@ export default {
 .placeholder {
     background-image: repeating-linear-gradient(
         -45deg,
-        rgba(57, 93, 255, 0.03) 0px,
-        rgba(57, 93, 255, 0.03) 6px,
-        transparent 6px,
-        transparent 12px
+        rgba(57, 93, 255, 0.04) 0px,
+        rgba(57, 93, 255, 0.04) 2px,
+        transparent 2px,
+        transparent 13px
     );
+
     border-radius: 3px;
     margin-bottom: 0.5rem;
+    z-index: -100;
 }
 </style>
