@@ -8,11 +8,11 @@
    },
    "dependencies": {
       "node-sass": "^4.14.0",
-      "sass-loader": "^8.0.2",
+      "sass-loader": "^13.2.0",
       "vue": "^2.6.11"
    },
    "devDependencies": {
-      "@vue/cli-service": "~4.3.0",
+      "@vue/cli-service": "~5.0.8",
       "vue-template-compiler": "^2.6.11"
    }
 }
